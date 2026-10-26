@@ -14,7 +14,7 @@ Currently learning more about software development, AI, and building web applica
 ### 👨‍🎓 About Me
 - 🎓 **B.E. – Electronics and Communication Engineering** Graduate 
 - 💻 Interested in **Web Development, AI, and Software Development**  
-- 🌱 Currently learning **Data Structures & Algorithms and Full-Stack Java Development**  
+- 🌱 Currently learning **Full-Stack Java Development**  
 - 🚀 Love building projects and experimenting with new tech  
 - 📌 Skilled in **Full-Stack Java Development**
 
@@ -38,7 +38,6 @@ Currently learning more about software development, AI, and building web applica
 ---
 
 ### 📚 Currently Focusing On
-- Data Structures & Algorithms
 - React Web Applications
 - Java Programming
 - Building practical projects
